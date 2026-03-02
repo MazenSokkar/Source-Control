@@ -16,3 +16,4 @@ class HelloITI {
 }
 let helloITI = new HelloITI();
 helloITI.printHelloITI();
+helloITI.printHelloGit();
