@@ -6,7 +6,7 @@ class HelloJava {
 let helloWorld = new HelloWorld();
 helloWorld.printHelloWorld();
 
-class HelloITI {
+class HelloSourceControl {
     printHelloITI () {
         console.log("Hello ITI");
     }
@@ -17,7 +17,7 @@ class HelloITI {
         console.log("Hello GitHub");
     }
 }
-let helloITI = new HelloITI();
-helloITI.printHelloITI();
-helloITI.printHelloGit();
-helloITI.printHelloGitHub();
+let helloSourceControl = new HelloSourceControl();
+helloSourceControl.printHelloITI();
+helloSourceControl.printHelloGit();
+helloSourceControl.printHelloGitHub();
