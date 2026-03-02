@@ -13,6 +13,9 @@ class HelloITI {
         printHelloGit(){
         console.log("Hello Git");
     }
+    printHelloGitHub() {
+        console.log("Hello GitHub");
+    }
 }
 let helloITI = new HelloITI();
 helloITI.printHelloITI();
