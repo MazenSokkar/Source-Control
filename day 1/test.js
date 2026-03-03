@@ -1,14 +1,14 @@
 class HelloJava {
-    printHelloWorld () {
-        console.log("Hello World");
+    printHelloJava () {
+        console.log("Hello Java");
     }
 }
-let helloWorld = new HelloWorld();
-helloWorld.printHelloWorld();
+let helloJava = new HelloJava();
+helloJava.printHelloJava();
 
 class HelloSourceControl {
-    printHelloITI () {
-        console.log("Hello ITI");
+    printHelloGitLab () {
+        console.log("Hello GitLab");
     }
         printHelloGit(){
         console.log("Hello Git");
@@ -18,6 +18,6 @@ class HelloSourceControl {
     }
 }
 let helloSourceControl = new HelloSourceControl();
-helloSourceControl.printHelloITI();
+helloSourceControl.printHelloGitLab();
 helloSourceControl.printHelloGit();
 helloSourceControl.printHelloGitHub();
