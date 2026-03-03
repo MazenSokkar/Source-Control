@@ -8,7 +8,7 @@ helloWorld.printHelloWorld();
 
 class HelloSourceControl {
     printHelloITI () {
-        console.log("Hello ITI");
+        console.log("Not hello ITI");
     }
         printHelloGit(){
         console.log("Hello Git");
