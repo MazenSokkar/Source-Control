@@ -1,10 +1,10 @@
 class HelloJava {
-    printHelloWorld () {
-        console.log("Hello World");
+    printHelloJava () {
+        console.log("Hello Java");
     }
 }
-let helloWorld = new HelloWorld();
-helloWorld.printHelloWorld();
+let helloJava = new HelloJava();
+helloJava.printHelloJava();
 
 class HelloSourceControl {
     printHelloITI () {
