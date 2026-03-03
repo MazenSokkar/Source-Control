@@ -7,8 +7,8 @@ let helloJava = new HelloJava();
 helloJava.printHelloJava();
 
 class HelloSourceControl {
-    printHelloGitLab () {
-        console.log("Hello GitLab");
+    printHelloITI () {
+        console.log("Not hello ITI");
     }
         printHelloGit(){
         console.log("Hello Git");
@@ -22,7 +22,7 @@ helloSourceControl.printHelloGitLab();
 helloSourceControl.printHelloGit();
 helloSourceControl.printHelloGitHub();
 
-class TestCs{
+class TestCsConflict{
     printTesting(){
         console.log("Hello Ahmed Hamdy From Testing");
     }
