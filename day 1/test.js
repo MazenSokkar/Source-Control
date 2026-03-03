@@ -22,10 +22,10 @@ helloSourceControl.printHelloGitLab();
 helloSourceControl.printHelloGit();
 helloSourceControl.printHelloGitHub();
 
-class TestCs{
+class TestCsConflict{
     printTesting(){
         console.log("Hello Ahmed Hamdy From Testing");
     }
 }
-let TestingCS = new TestCs();
-TestingCS.printTesting();
+let TestingCSConflict = new TestCsConflict();
+TestingCSConflict.printTesting();
