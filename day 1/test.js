@@ -27,5 +27,10 @@ class TestCsConflict{
         console.log("Hello Ahmed Hamdy From Testing");
     }
 }
-let TestingCSConflict = new TestCsConflict();
-TestingCSConflict.printTesting();
+let TestingCS = new TestCs();
+TestingCS.printTesting();
+class kalifatest{
+    printTesting(){
+        console.log("Hello Ahmed Hamdy From Testing");
+    }
+}
