@@ -29,3 +29,8 @@ class TestCs{
 }
 let TestingCS = new TestCs();
 TestingCS.printTesting();
+class kalifatest{
+    printTesting(){
+        console.log("Hello Ahmed Hamdy From Testing");
+    }
+}
