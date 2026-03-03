@@ -21,3 +21,11 @@ let helloSourceControl = new HelloSourceControl();
 helloSourceControl.printHelloGitLab();
 helloSourceControl.printHelloGit();
 helloSourceControl.printHelloGitHub();
+
+class TestCs{
+    printTesting(){
+        console.log("Hello Ahmed Hamdy From Testing");
+    }
+}
+let TestingCS = new TestCs();
+TestingCS.printTesting();
